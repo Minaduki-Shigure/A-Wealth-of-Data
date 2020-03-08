@@ -1,0 +1,114 @@
+ 	refund = True                1 : 5      =     77.1 : 1.0
+                  return = True                1 : 5      =     66.5 : 1.0
+                   trash = True                1 : 5      =     50.5 : 1.0
+                    fire = True                1 : 5      =     47.2 : 1.0
+                    HIGH = True                2 : 5      =     45.3 : 1.0
+               dangerous = True                1 : 5      =     45.2 : 1.0
+                 smoking = True                1 : 5      =     45.2 : 1.0
+                  melted = True                1 : 5      =     45.2 : 1.0
+               contacted = True                1 : 5      =     43.1 : 1.0
+               defective = True                1 : 5      =     42.2 : 1.0
+                returned = True                2 : 4      =     40.1 : 1.0
+                  flames = True                1 : 5      =     39.9 : 1.0
+                 useless = True                1 : 5      =     39.9 : 1.0
+                   waste = True                1 : 4      =     39.3 : 1.0
+                sparking = True                2 : 5      =     37.0 : 1.0
+                suddenly = True                2 : 5      =     37.0 : 1.0
+                  sparks = True                1 : 5      =     36.4 : 1.0
+                      OK = True                3 : 5      =     35.5 : 1.0
+                   March = True                1 : 5      =     34.6 : 1.0
+                   worst = True                1 : 5      =     33.5 : 1.0
+                 contact = True                1 : 5      =     33.5 : 1.0
+               returning = True                1 : 5      =     31.0 : 1.0
+                 biggest = True                3 : 5      =     30.8 : 1.0
+                   Heavy = True                3 : 5      =     30.8 : 1.0
+            manufacturer = True                1 : 5      =     30.3 : 1.0
+                  flimsy = True                1 : 5      =     30.3 : 1.0
+                  policy = True                1 : 5      =     29.3 : 1.0
+                    June = True                1 : 5      =     29.3 : 1.0
+                    crap = True                1 : 5      =     29.3 : 1.0
+                 website = True                1 : 5      =     29.3 : 1.0
+                   began = True                1 : 5      =     29.3 : 1.0
+                  hazard = True                1 : 5      =     29.3 : 1.0
+                suitable = True                2 : 5      =     28.8 : 1.0
+                    flaw = True                2 : 5      =     28.8 : 1.0
+                 sliding = True                2 : 5      =     28.8 : 1.0
+                  MONTHS = True                2 : 5      =     28.8 : 1.0
+                 January = True                2 : 5      =     28.8 : 1.0
+                  thrown = True                2 : 5      =     28.8 : 1.0
+                  covers = True                2 : 5      =     28.8 : 1.0
+                   lemon = True                2 : 5      =     28.8 : 1.0
+                   dries = True                5 : 1      =     28.7 : 1.0
+                   sides = True                3 : 5      =     26.0 : 1.0
+                  UPDATE = True                3 : 5      =     26.0 : 1.0
+                 stopped = True                1 : 4      =     25.9 : 1.0
+                    pops = True                1 : 5      =     23.9 : 1.0
+             unfortunate = True                1 : 5      =     23.9 : 1.0
+                    send = True                1 : 5      =     23.9 : 1.0
+               September = True                1 : 5      =     23.9 : 1.0
+                February = True                1 : 5      =     23.9 : 1.0
+                sticking = True                1 : 5      =     23.9 : 1.0
+                     dud = True                1 : 5      =     23.9 : 1.0
+                   sucks = True                1 : 5      =     23.9 : 1.0
+               beginning = True                1 : 5      =     23.9 : 1.0
+                 cheaply = True                1 : 5      =     23.9 : 1.0
+                    sent = True                1 : 5      =     22.5 : 1.0
+                    Pros = True                2 : 5      =     22.2 : 1.0
+                  Lasted = True                2 : 5      =     22.2 : 1.0
+                   doubt = True                2 : 5      =     22.2 : 1.0
+                      Ok = True                3 : 5      =     21.3 : 1.0
+                   shows = True                3 : 5      =     21.3 : 1.0
+                    knob = True                3 : 5      =     21.3 : 1.0
+                  Please = True                1 : 5      =     21.0 : 1.0
+                  caught = True                1 : 5      =     20.7 : 1.0
+                 touched = True                2 : 5      =     20.6 : 1.0
+                plugging = True                2 : 5      =     20.6 : 1.0
+                    Next = True                2 : 5      =     20.6 : 1.0
+                December = True                2 : 5      =     20.6 : 1.0
+            consistently = True                2 : 5      =     20.6 : 1.0
+                 cutting = True                2 : 5      =     20.6 : 1.0
+                     sad = True                2 : 5      =     20.6 : 1.0
+               wondering = True                2 : 5      =     20.6 : 1.0
+                  Within = True                2 : 5      =     20.6 : 1.0
+                November = True                2 : 5      =     20.6 : 1.0
+                   spark = True                2 : 5      =     20.6 : 1.0
+                  Though = True                2 : 5      =     20.6 : 1.0
+                mediocre = True                2 : 5      =     20.6 : 1.0
+             Fortunately = True                2 : 5      =     20.6 : 1.0
+                  passed = True                2 : 5      =     20.6 : 1.0
+                 Luckily = True                2 : 5      =     20.6 : 1.0
+                   shown = True                2 : 5      =     20.6 : 1.0
+                     cup = True                2 : 5      =     20.6 : 1.0
+                   smoke = True                1 : 5      =     20.4 : 1.0
+                   Great = True                5 : 1      =     19.5 : 1.0
+                    Cons = True                2 : 5      =     19.4 : 1.0
+                   Vidal = True                2 : 5      =     19.4 : 1.0
+                 Sassoon = True                2 : 5      =     19.4 : 1.0
+                    hose = True                2 : 5      =     19.4 : 1.0
+                horrible = True                1 : 5      =     19.4 : 1.0
+                  period = True                1 : 5      =     19.4 : 1.0
+                  burned = True                1 : 4      =     19.1 : 1.0
+                   coils = True                1 : 5      =     18.6 : 1.0
+                 receipt = True                1 : 5      =     18.6 : 1.0
+                    bent = True                1 : 5      =     18.6 : 1.0
+                   marks = True                1 : 5      =     18.6 : 1.0
+                   shuts = True                1 : 5      =     18.6 : 1.0
+                 sounded = True                1 : 5      =     18.6 : 1.0
+                   scary = True                1 : 5      =     18.6 : 1.0
+                   teeth = True                1 : 5      =     18.6 : 1.0
+                chemical = True                1 : 5      =     18.6 : 1.0
+               continues = True                1 : 5      =     18.6 : 1.0
+
+Classifier accuracy percent: 52.46085011185683
+
+MNB_classifier accuracy percent: 60.961968680089484
+
+BernoulliNB_classifier accuracy percent: 52.03579418344519
+
+LogisticRegression_classifier accuracy percent: 59.79865771812081
+
+SGDClassifier_classifier accuracy percent: 57.76286353467561
+
+SVC_classifier accuracy percent: 57.27069351230425
+
+LinearSVC_classifier accuracy percent: 56.10738255033557

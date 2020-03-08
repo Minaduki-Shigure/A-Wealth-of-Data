@@ -1,0 +1,64 @@
+                warranty = True                1 : 5      =     55.3 : 1.0
+                    told = True                1 : 5      =     31.3 : 1.0
+                  lasted = True                1 : 5      =     24.8 : 1.0
+                   panel = True                2 : 5      =     24.5 : 1.0
+                  return = True                2 : 5      =     24.5 : 1.0
+                  handle = True                2 : 5      =     21.2 : 1.0
+                     ago = True                1 : 5      =     19.7 : 1.0
+                   apart = True                2 : 5      =     19.0 : 1.0
+                    rear = True                2 : 5      =     19.0 : 1.0
+                    loud = True                2 : 5      =     19.0 : 1.0
+                 version = True                2 : 5      =     19.0 : 1.0
+                   major = True                2 : 5      =     19.0 : 1.0
+                  across = True                2 : 5      =     19.0 : 1.0
+                     fan = True                1 : 5      =     18.4 : 1.0
+                 company = True                1 : 5      =     18.4 : 1.0
+                   broke = True                2 : 5      =     17.9 : 1.0
+                customer = True                1 : 5      =     16.8 : 1.0
+                   phone = True                1 : 5      =     16.8 : 1.0
+                products = True                1 : 5      =     15.9 : 1.0
+                 stopped = True                1 : 4      =     15.7 : 1.0
+                 service = True                1 : 5      =     15.5 : 1.0
+                    help = True                1 : 5      =     15.2 : 1.0
+                   close = True                2 : 5      =     14.7 : 1.0
+                   parts = True                3 : 5      =     14.4 : 1.0
+                 already = True                2 : 4      =     13.7 : 1.0
+                   board = True                1 : 5      =     13.6 : 1.0
+                  within = True                1 : 5      =     13.6 : 1.0
+                   weird = True                2 : 5      =     13.6 : 1.0
+                 damaged = True                2 : 5      =     13.6 : 1.0
+                  screws = True                2 : 5      =     13.6 : 1.0
+                   knows = True                2 : 5      =     13.6 : 1.0
+                    Even = True                2 : 5      =     13.6 : 1.0
+               identical = True                2 : 5      =     13.6 : 1.0
+              electrical = True                2 : 5      =     13.6 : 1.0
+                    stay = True                2 : 5      =     13.6 : 1.0
+                internal = True                2 : 5      =     13.6 : 1.0
+                   wrong = True                2 : 5      =     13.6 : 1.0
+                      OK = True                2 : 5      =     13.6 : 1.0
+                    dark = True                2 : 5      =     13.6 : 1.0
+                 located = True                2 : 5      =     13.6 : 1.0
+                   Great = True                5 : 1      =     13.4 : 1.0
+                  repair = True                1 : 5      =     13.1 : 1.0
+                     cut = True                3 : 5      =     12.9 : 1.0
+                   exact = True                3 : 5      =     12.9 : 1.0
+               replacing = True                3 : 5      =     12.9 : 1.0
+                 careful = True                3 : 5      =     12.9 : 1.0
+            instructions = True                3 : 5      =     12.2 : 1.0
+              experience = True                1 : 5      =     12.0 : 1.0
+                   asked = True                1 : 5      =     12.0 : 1.0
+                   hours = True                1 : 5      =     12.0 : 1.0
+
+Classifier accuracy percent: 50.20979020979021
+
+MNB_classifier accuracy percent: 60.0
+
+BernoulliNB_classifier accuracy percent: 50.62937062937063
+
+LogisticRegression_classifier accuracy percent: 54.96503496503497
+
+SGDClassifier_classifier accuracy percent: 56.08391608391609
+
+SVC_classifier accuracy percent: 53.28671328671328
+
+LinearSVC_classifier accuracy percent: 52.58741258741259

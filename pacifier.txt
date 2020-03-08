@@ -1,0 +1,114 @@
+Most Informative Features
+                   waste = True                1 : 5      =     78.6 : 1.0
+                 useless = True                2 : 5      =     75.5 : 1.0
+                returned = True                1 : 5      =     65.1 : 1.0
+                     gap = True                2 : 5      =     55.3 : 1.0
+                    mail = True                2 : 5      =     45.3 : 1.0
+                  wasted = True                1 : 5      =     41.1 : 1.0
+                   broke = True                1 : 5      =     41.1 : 1.0
+                  poorly = True                1 : 5      =     41.1 : 1.0
+            disappointed = True                1 : 5      =     37.9 : 1.0
+                  leaves = True                2 : 5      =     35.2 : 1.0
+                  vision = True                2 : 5      =     35.2 : 1.0
+                    knob = True                2 : 5      =     35.2 : 1.0
+                    glue = True                1 : 5      =     33.7 : 1.0
+                terrible = True                1 : 5      =     33.7 : 1.0
+               returning = True                1 : 5      =     33.7 : 1.0
+                    poor = True                1 : 5      =     30.5 : 1.0
+                    vary = True                1 : 5      =     29.2 : 1.0
+                  flimsy = True                2 : 5      =     28.0 : 1.0
+                 suppose = True                3 : 5      =     28.0 : 1.0
+                   sadly = True                3 : 5      =     28.0 : 1.0
+                  images = True                3 : 5      =     28.0 : 1.0
+                 warning = True                1 : 5      =     26.2 : 1.0
+                    fake = True                1 : 5      =     26.2 : 1.0
+                 mistake = True                1 : 5      =     26.2 : 1.0
+                 obvious = True                1 : 5      =     26.2 : 1.0
+               defective = True                1 : 5      =     26.2 : 1.0
+                  smells = True                1 : 5      =     26.2 : 1.0
+                    okay = True                3 : 5      =     25.3 : 1.0
+                   terms = True                2 : 5      =     25.2 : 1.0
+                strength = True                2 : 5      =     25.2 : 1.0
+                  pushed = True                2 : 5      =     25.2 : 1.0
+                  bummer = True                2 : 5      =     25.2 : 1.0
+                    inch = True                2 : 5      =     25.2 : 1.0
+                   notch = True                2 : 5      =     25.2 : 1.0
+                 results = True                2 : 5      =     25.2 : 1.0
+              cumbersome = True                2 : 5      =     25.2 : 1.0
+                    ugly = True                2 : 5      =     25.2 : 1.0
+                  beanie = True                2 : 5      =     25.2 : 1.0
+                 strings = True                2 : 5      =     25.2 : 1.0
+                   snack = True                2 : 5      =     25.2 : 1.0
+                  handed = True                2 : 5      =     25.2 : 1.0
+                     ups = True                2 : 5      =     25.2 : 1.0
+                 minimal = True                2 : 5      =     25.2 : 1.0
+                    duty = True                2 : 5      =     25.2 : 1.0
+                  appear = True                2 : 5      =     25.2 : 1.0
+                recieved = True                1 : 5      =     24.7 : 1.0
+                   worst = True                1 : 5      =     24.7 : 1.0
+                    None = True                1 : 5      =     24.7 : 1.0
+                 booster = True                3 : 5      =     24.2 : 1.0
+                annoying = True                2 : 5      =     23.7 : 1.0
+                  return = True                1 : 4      =     22.1 : 1.0
+                adapters = True                3 : 5      =     21.8 : 1.0
+                  screws = True                3 : 5      =     21.8 : 1.0
+               butterfly = True                3 : 5      =     21.8 : 1.0
+                    runs = True                3 : 5      =     21.8 : 1.0
+                 staying = True                3 : 5      =     21.8 : 1.0
+                 biggest = True                2 : 5      =     21.1 : 1.0
+                  lowest = True                2 : 5      =     21.1 : 1.0
+                 elastic = True                2 : 5      =     21.1 : 1.0
+                horrible = True                1 : 5      =     20.8 : 1.0
+           unfortunately = True                2 : 5      =     20.6 : 1.0
+                   minor = True                4 : 5      =     20.5 : 1.0
+                    mark = True                1 : 5      =     20.2 : 1.0
+                  stated = True                1 : 5      =     20.2 : 1.0
+                 imagine = True                2 : 5      =     19.4 : 1.0
+                 cushion = True                2 : 5      =     19.4 : 1.0
+                  locked = True                1 : 5      =     18.7 : 1.0
+                   faded = True                1 : 5      =     18.7 : 1.0
+                     sew = True                1 : 5      =     18.7 : 1.0
+                   cross = True                1 : 5      =     18.7 : 1.0
+                    bent = True                1 : 5      =     18.7 : 1.0
+                      lb = True                1 : 5      =     18.7 : 1.0
+                  ripped = True                1 : 5      =     18.7 : 1.0
+                  unsafe = True                1 : 5      =     18.7 : 1.0
+                   spots = True                1 : 5      =     18.7 : 1.0
+                 listing = True                1 : 5      =     18.7 : 1.0
+                     lap = True                1 : 5      =     18.7 : 1.0
+                    miss = True                1 : 5      =     18.7 : 1.0
+                     led = True                1 : 5      =     18.7 : 1.0
+                 process = True                1 : 5      =     18.7 : 1.0
+                    term = True                1 : 5      =     18.7 : 1.0
+                positive = True                1 : 5      =     18.7 : 1.0
+                   units = True                1 : 5      =     18.7 : 1.0
+                  screen = True                2 : 5      =     18.4 : 1.0
+                    loud = True                2 : 5      =     18.4 : 1.0
+                    paid = True                1 : 5      =     17.6 : 1.0
+                  broken = True                1 : 5      =     17.6 : 1.0
+                anything = True                2 : 4      =     17.1 : 1.0
+            specifically = True                3 : 5      =     16.8 : 1.0
+                    fair = True                3 : 5      =     16.8 : 1.0
+                   nylon = True                4 : 5      =     16.8 : 1.0
+                    star = True                4 : 5      =     16.8 : 1.0
+                      ok = True                3 : 5      =     16.4 : 1.0
+                  opened = True                1 : 5      =     16.4 : 1.0
+                    junk = True                1 : 5      =     16.2 : 1.0
+                    foam = True                1 : 5      =     15.7 : 1.0
+                   badly = True                1 : 5      =     15.7 : 1.0
+                 tighten = True                1 : 5      =     15.7 : 1.0
+              separately = True                1 : 5      =     15.7 : 1.0
+                   inner = True                1 : 5      =     15.7 : 1.0
+Classifier accuracy percent: 55.37314682971773
+
+MultinomialNB accuracy percent: 0.6629533461763967
+
+BernoulliNB accuracy percent: 0.5549040958204204
+
+LogisticRegression_classifier accuracy percent: 65.3991121534467
+
+SGDClassifier_classifier accuracy percent: 62.77745204791021
+
+SVC_classifier accuracy percent: 65.73414858865901
+
+LinearSVC_classifier accuracy percent: 62.07387553396432
