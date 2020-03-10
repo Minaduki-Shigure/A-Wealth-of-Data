@@ -1,0 +1,176 @@
+[W 14:13:03.338 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 14:13:03.353 LabApp] JupyterLab extension loaded from /home/minaduki/.local/lib/python3.6/site-packages/jupyterlab
+[I 14:13:03.353 LabApp] JupyterLab application directory is /home/minaduki/.local/share/jupyter/lab
+[I 14:13:03.364 LabApp] Serving notebooks from local directory: /mnt/c/Users/Player/Desktop/C题数据
+[I 14:13:03.365 LabApp] 0 active kernels
+[I 14:13:03.365 LabApp] The Jupyter Notebook is running at:
+[I 14:13:03.365 LabApp] http://localhost:8888/?token=ee58fa1c1c8d05bdf0d3d41d077d98b513e4c49b48939f55
+[I 14:13:03.365 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 14:13:03.366 LabApp] No web browser found: could not locate runnable browser.
+[C 14:13:03.366 LabApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=ee58fa1c1c8d05bdf0d3d41d077d98b513e4c49b48939f55
+[W 14:13:07.633 LabApp] 404 GET /metrics?1583475187528 (127.0.0.1) 52.47ms referer=http://localhost:8888/lab
+[W 14:13:08.741 LabApp] 404 GET /metrics?1583475188735 (127.0.0.1) 1.79ms referer=http://localhost:8888/lab
+[W 14:13:08.930 LabApp] Could not determine jupyterlab build status without nodejs
+[W 14:13:13.749 LabApp] 404 GET /metrics?1583475193744 (127.0.0.1) 1.17ms referer=http://localhost:8888/lab
+[I 14:13:16.392 LabApp] Kernel started: 4370f3ea-a80b-4930-9c0a-78158e22a0a9
+[I 14:13:17.097 LabApp] Adapting to protocol v5.1 for kernel 4370f3ea-a80b-4930-9c0a-78158e22a0a9
+[I 14:13:17.113 LabApp] Adapting to protocol v5.1 for kernel 4370f3ea-a80b-4930-9c0a-78158e22a0a9
+[W 14:13:18.759 LabApp] 404 GET /metrics?1583475198752 (127.0.0.1) 1.70ms referer=http://localhost:8888/lab
+[W 14:13:23.767 LabApp] 404 GET /metrics?1583475203762 (127.0.0.1) 1.29ms referer=http://localhost:8888/lab
+[W 14:13:45.743 LabApp] 404 GET /metrics?1583475225736 (127.0.0.1) 1.19ms referer=http://localhost:8888/lab
+[W 14:13:50.753 LabApp] 404 GET /metrics?1583475230744 (127.0.0.1) 1.85ms referer=http://localhost:8888/lab
+[W 14:13:55.767 LabApp] 404 GET /metrics?1583475235757 (127.0.0.1) 1.80ms referer=http://localhost:8888/lab
+[W 14:14:00.777 LabApp] 404 GET /metrics?1583475240770 (127.0.0.1) 1.17ms referer=http://localhost:8888/lab
+[W 14:14:16.743 LabApp] 404 GET /metrics?1583475256736 (127.0.0.1) 1.27ms referer=http://localhost:8888/lab
+[W 14:14:21.798 LabApp] 404 GET /metrics?1583475261745 (127.0.0.1) 9.86ms referer=http://localhost:8888/lab
+[I 14:15:09.760 LabApp] Saving file at /Untitled.ipynb
+[W 14:15:37.747 LabApp] 404 GET /metrics?1583475337742 (127.0.0.1) 1.17ms referer=http://localhost:8888/lab
+[W 14:15:42.758 LabApp] 404 GET /metrics?1583475342749 (127.0.0.1) 2.21ms referer=http://localhost:8888/lab
+[W 14:15:47.767 LabApp] 404 GET /metrics?1583475347761 (127.0.0.1) 1.15ms referer=http://localhost:8888/lab
+[W 14:15:52.778 LabApp] 404 GET /metrics?1583475352773 (127.0.0.1) 0.98ms referer=http://localhost:8888/lab
+[W 14:15:57.790 LabApp] 404 GET /metrics?1583475357781 (127.0.0.1) 2.23ms referer=http://localhost:8888/lab
+[W 14:16:03.227 LabApp] 404 GET /metrics?1583475363205 (127.0.0.1) 1.43ms referer=http://localhost:8888/lab
+[W 14:16:08.238 LabApp] 404 GET /metrics?1583475368231 (127.0.0.1) 1.58ms referer=http://localhost:8888/lab
+[W 14:16:13.247 LabApp] 404 GET /metrics?1583475373242 (127.0.0.1) 1.13ms referer=http://localhost:8888/lab
+[W 14:16:18.259 LabApp] 404 GET /metrics?1583475378250 (127.0.0.1) 1.91ms referer=http://localhost:8888/lab
+[W 14:16:23.270 LabApp] 404 GET /metrics?1583475383263 (127.0.0.1) 1.55ms referer=http://localhost:8888/lab
+[W 14:16:28.282 LabApp] 404 GET /metrics?1583475388274 (127.0.0.1) 1.02ms referer=http://localhost:8888/lab
+[W 14:16:33.291 LabApp] 404 GET /metrics?1583475393284 (127.0.0.1) 2.29ms referer=http://localhost:8888/lab
+[W 14:16:38.298 LabApp] 404 GET /metrics?1583475398294 (127.0.0.1) 1.16ms referer=http://localhost:8888/lab
+[W 14:16:43.307 LabApp] 404 GET /metrics?1583475403301 (127.0.0.1) 2.35ms referer=http://localhost:8888/lab
+[W 14:16:48.317 LabApp] 404 GET /metrics?1583475408311 (127.0.0.1) 1.29ms referer=http://localhost:8888/lab
+[I 14:17:10.762 LabApp] Saving file at /Untitled.ipynb
+[W 14:17:15.747 LabApp] 404 GET /metrics?1583475435738 (127.0.0.1) 1.81ms referer=http://localhost:8888/lab
+[W 14:17:20.758 LabApp] 404 GET /metrics?1583475440750 (127.0.0.1) 2.03ms referer=http://localhost:8888/lab
+[W 14:17:25.770 LabApp] 404 GET /metrics?1583475445762 (127.0.0.1) 1.94ms referer=http://localhost:8888/lab
+[W 14:17:30.783 LabApp] 404 GET /metrics?1583475450775 (127.0.0.1) 1.98ms referer=http://localhost:8888/lab
+[W 14:17:35.796 LabApp] 404 GET /metrics?1583475455787 (127.0.0.1) 1.38ms referer=http://localhost:8888/lab
+[W 14:17:40.805 LabApp] 404 GET /metrics?1583475460799 (127.0.0.1) 1.12ms referer=http://localhost:8888/lab
+[W 14:17:45.816 LabApp] 404 GET /metrics?1583475465808 (127.0.0.1) 1.85ms referer=http://localhost:8888/lab
+[W 14:17:50.827 LabApp] 404 GET /metrics?1583475470820 (127.0.0.1) 1.48ms referer=http://localhost:8888/lab
+[W 14:17:55.838 LabApp] 404 GET /metrics?1583475475829 (127.0.0.1) 2.08ms referer=http://localhost:8888/lab
+[W 14:18:00.850 LabApp] 404 GET /metrics?1583475480843 (127.0.0.1) 1.59ms referer=http://localhost:8888/lab
+[W 14:18:11.755 LabApp] 404 GET /metrics?1583475491738 (127.0.0.1) 1.03ms referer=http://localhost:8888/lab
+[W 14:18:16.765 LabApp] 404 GET /metrics?1583475496758 (127.0.0.1) 1.12ms referer=http://localhost:8888/lab
+[W 14:18:21.775 LabApp] 404 GET /metrics?1583475501769 (127.0.0.1) 1.39ms referer=http://localhost:8888/lab
+[W 14:18:26.785 LabApp] 404 GET /metrics?1583475506779 (127.0.0.1) 1.16ms referer=http://localhost:8888/lab
+[W 14:18:31.797 LabApp] 404 GET /metrics?1583475511789 (127.0.0.1) 1.95ms referer=http://localhost:8888/lab
+[I 14:19:11.759 LabApp] Saving file at /Untitled.ipynb
+[W 14:19:15.748 LabApp] 404 GET /metrics?1583475555739 (127.0.0.1) 1.86ms referer=http://localhost:8888/lab
+[W 14:19:20.759 LabApp] 404 GET /metrics?1583475560753 (127.0.0.1) 1.35ms referer=http://localhost:8888/lab
+[W 14:19:25.791 LabApp] 404 GET /metrics?1583475565763 (127.0.0.1) 7.04ms referer=http://localhost:8888/lab
+[W 14:19:30.889 LabApp] 404 GET /metrics?1583475570872 (127.0.0.1) 3.65ms referer=http://localhost:8888/lab
+[W 14:19:35.921 LabApp] 404 GET /metrics?1583475575903 (127.0.0.1) 2.35ms referer=http://localhost:8888/lab
+[W 14:19:40.934 LabApp] 404 GET /metrics?1583475580929 (127.0.0.1) 1.08ms referer=http://localhost:8888/lab
+[W 14:19:45.945 LabApp] 404 GET /metrics?1583475585937 (127.0.0.1) 2.00ms referer=http://localhost:8888/lab
+[W 14:19:50.955 LabApp] 404 GET /metrics?1583475590950 (127.0.0.1) 0.98ms referer=http://localhost:8888/lab
+[W 14:19:55.964 LabApp] 404 GET /metrics?1583475595957 (127.0.0.1) 1.16ms referer=http://localhost:8888/lab
+[W 14:20:00.976 LabApp] 404 GET /metrics?1583475600967 (127.0.0.1) 1.90ms referer=http://localhost:8888/lab
+[W 14:20:33.746 LabApp] 404 GET /metrics?1583475633739 (127.0.0.1) 1.30ms referer=http://localhost:8888/lab
+[W 14:20:38.756 LabApp] 404 GET /metrics?1583475638749 (127.0.0.1) 1.65ms referer=http://localhost:8888/lab
+[W 14:21:06.745 LabApp] 404 GET /metrics?1583475666738 (127.0.0.1) 1.88ms referer=http://localhost:8888/lab
+[W 14:21:11.760 LabApp] 404 GET /metrics?1583475671748 (127.0.0.1) 1.68ms referer=http://localhost:8888/lab
+[W 14:21:16.768 LabApp] 404 GET /metrics?1583475676763 (127.0.0.1) 1.12ms referer=http://localhost:8888/lab
+[W 14:21:21.780 LabApp] 404 GET /metrics?1583475681772 (127.0.0.1) 1.62ms referer=http://localhost:8888/lab
+[W 14:21:26.789 LabApp] 404 GET /metrics?1583475686783 (127.0.0.1) 1.75ms referer=http://localhost:8888/lab
+[W 14:21:31.798 LabApp] 404 GET /metrics?1583475691792 (127.0.0.1) 1.04ms referer=http://localhost:8888/lab
+[W 14:21:36.810 LabApp] 404 GET /metrics?1583475696800 (127.0.0.1) 1.85ms referer=http://localhost:8888/lab
+[W 14:21:41.824 LabApp] 404 GET /metrics?1583475701816 (127.0.0.1) 2.48ms referer=http://localhost:8888/lab
+[W 14:21:46.832 LabApp] 404 GET /metrics?1583475706827 (127.0.0.1) 1.01ms referer=http://localhost:8888/lab
+[W 14:21:51.840 LabApp] 404 GET /metrics?1583475711835 (127.0.0.1) 1.10ms referer=http://localhost:8888/lab
+[W 14:21:56.851 LabApp] 404 GET /metrics?1583475716844 (127.0.0.1) 1.43ms referer=http://localhost:8888/lab
+[W 14:22:01.860 LabApp] 404 GET /metrics?1583475721854 (127.0.0.1) 1.47ms referer=http://localhost:8888/lab
+[W 14:22:06.872 LabApp] 404 GET /metrics?1583475726864 (127.0.0.1) 1.88ms referer=http://localhost:8888/lab
+[W 14:22:11.882 LabApp] 404 GET /metrics?1583475731875 (127.0.0.1) 1.25ms referer=http://localhost:8888/lab
+[W 14:22:16.891 LabApp] 404 GET /metrics?1583475736885 (127.0.0.1) 1.22ms referer=http://localhost:8888/lab
+[I 14:22:18.312 LabApp] Saving file at /Untitled.ipynb
+[W 14:22:21.901 LabApp] 404 GET /metrics?1583475741895 (127.0.0.1) 0.99ms referer=http://localhost:8888/lab
+[I 14:22:22.231 LabApp] Saving file at /Untitled.ipynb
+[W 14:22:26.910 LabApp] 404 GET /metrics?1583475746904 (127.0.0.1) 1.75ms referer=http://localhost:8888/lab
+[W 14:22:31.920 LabApp] 404 GET /metrics?1583475751914 (127.0.0.1) 1.23ms referer=http://localhost:8888/lab
+[I 14:22:35.188 LabApp] Saving file at /Untitled.ipynb
+[W 14:22:36.928 LabApp] 404 GET /metrics?1583475756923 (127.0.0.1) 1.11ms referer=http://localhost:8888/lab
+[W 14:50:27.786 LabApp] 404 GET /metrics?1583477427777 (127.0.0.1) 2.34ms referer=http://localhost:8888/lab
+[W 14:50:32.798 LabApp] 404 GET /metrics?1583477432789 (127.0.0.1) 1.82ms referer=http://localhost:8888/lab
+[W 14:50:37.810 LabApp] 404 GET /metrics?1583477437801 (127.0.0.1) 1.93ms referer=http://localhost:8888/lab
+[W 14:50:42.826 LabApp] 404 GET /metrics?1583477442816 (127.0.0.1) 3.06ms referer=http://localhost:8888/lab
+[I 14:50:43.763 LabApp] Saving file at /Untitled.ipynb
+[W 14:50:47.836 LabApp] 404 GET /metrics?1583477447830 (127.0.0.1) 1.21ms referer=http://localhost:8888/lab
+[W 14:50:52.847 LabApp] 404 GET /metrics?1583477452839 (127.0.0.1) 1.84ms referer=http://localhost:8888/lab
+[W 14:50:57.859 LabApp] 404 GET /metrics?1583477457850 (127.0.0.1) 2.16ms referer=http://localhost:8888/lab
+[W 14:51:02.872 LabApp] 404 GET /metrics?1583477462864 (127.0.0.1) 1.78ms referer=http://localhost:8888/lab
+[W 14:51:07.884 LabApp] 404 GET /metrics?1583477467876 (127.0.0.1) 2.37ms referer=http://localhost:8888/lab
+[W 14:51:12.897 LabApp] 404 GET /metrics?1583477472888 (127.0.0.1) 1.88ms referer=http://localhost:8888/lab
+[W 14:51:17.908 LabApp] 404 GET /metrics?1583477477900 (127.0.0.1) 1.95ms referer=http://localhost:8888/lab
+[W 14:51:22.922 LabApp] 404 GET /metrics?1583477482913 (127.0.0.1) 1.92ms referer=http://localhost:8888/lab
+[W 14:51:27.934 LabApp] 404 GET /metrics?1583477487926 (127.0.0.1) 2.14ms referer=http://localhost:8888/lab
+[W 14:51:32.948 LabApp] 404 GET /metrics?1583477492939 (127.0.0.1) 1.86ms referer=http://localhost:8888/lab
+[W 14:51:37.961 LabApp] 404 GET /metrics?1583477497952 (127.0.0.1) 2.03ms referer=http://localhost:8888/lab
+[W 14:51:42.973 LabApp] 404 GET /metrics?1583477502965 (127.0.0.1) 1.86ms referer=http://localhost:8888/lab
+[W 14:51:47.985 LabApp] 404 GET /metrics?1583477507977 (127.0.0.1) 1.90ms referer=http://localhost:8888/lab
+[W 14:51:52.998 LabApp] 404 GET /metrics?1583477512990 (127.0.0.1) 1.88ms referer=http://localhost:8888/lab
+[W 14:51:58.009 LabApp] 404 GET /metrics?1583477518001 (127.0.0.1) 1.88ms referer=http://localhost:8888/lab
+[W 14:52:03.022 LabApp] 404 GET /metrics?1583477523014 (127.0.0.1) 1.91ms referer=http://localhost:8888/lab
+[W 14:52:08.037 LabApp] 404 GET /metrics?1583477528028 (127.0.0.1) 2.12ms referer=http://localhost:8888/lab
+[W 14:52:13.049 LabApp] 404 GET /metrics?1583477533041 (127.0.0.1) 1.81ms referer=http://localhost:8888/lab
+[W 14:52:18.118 LabApp] 404 GET /metrics?1583477538053 (127.0.0.1) 3.22ms referer=http://localhost:8888/lab
+[I 14:52:45.060 LabApp] Saving file at /Untitled.ipynb
+[W 14:52:50.751 LabApp] 404 GET /metrics?1583477570744 (127.0.0.1) 1.97ms referer=http://localhost:8888/lab
+[W 14:52:55.765 LabApp] 404 GET /metrics?1583477575755 (127.0.0.1) 2.00ms referer=http://localhost:8888/lab
+[W 14:53:00.778 LabApp] 404 GET /metrics?1583477580769 (127.0.0.1) 1.89ms referer=http://localhost:8888/lab
+[W 14:53:05.813 LabApp] 404 GET /metrics?1583477585806 (127.0.0.1) 1.78ms referer=http://localhost:8888/lab
+[W 14:53:32.747 LabApp] 404 GET /metrics?1583477612738 (127.0.0.1) 2.07ms referer=http://localhost:8888/lab
+[I 14:53:36.236 LabApp] Saving file at /Untitled.ipynb
+[W 15:36:28.746 LabApp] 404 GET /metrics?1583480188737 (127.0.0.1) 2.41ms referer=http://localhost:8888/lab
+[W 15:36:33.767 LabApp] 404 GET /metrics?1583480193758 (127.0.0.1) 1.94ms referer=http://localhost:8888/lab
+[W 15:36:38.779 LabApp] 404 GET /metrics?1583480198771 (127.0.0.1) 2.11ms referer=http://localhost:8888/lab
+[W 15:36:43.792 LabApp] 404 GET /metrics?1583480203784 (127.0.0.1) 1.91ms referer=http://localhost:8888/lab
+[W 15:36:48.805 LabApp] 404 GET /metrics?1583480208796 (127.0.0.1) 1.84ms referer=http://localhost:8888/lab
+[W 15:37:05.811 LabApp] 404 GET /metrics?1583480225794 (127.0.0.1) 5.97ms referer=http://localhost:8888/lab
+[W 15:37:10.828 LabApp] 404 GET /metrics?1583480230819 (127.0.0.1) 1.87ms referer=http://localhost:8888/lab
+[W 15:37:15.847 LabApp] 404 GET /metrics?1583480235834 (127.0.0.1) 3.99ms referer=http://localhost:8888/lab
+[W 15:37:20.967 LabApp] 404 GET /metrics?1583480240940 (127.0.0.1) 4.48ms referer=http://localhost:8888/lab
+[W 15:37:25.981 LabApp] 404 GET /metrics?1583480245973 (127.0.0.1) 2.21ms referer=http://localhost:8888/lab
+[W 15:37:30.994 LabApp] 404 GET /metrics?1583480250985 (127.0.0.1) 1.83ms referer=http://localhost:8888/lab
+[W 15:37:36.007 LabApp] 404 GET /metrics?1583480255998 (127.0.0.1) 2.02ms referer=http://localhost:8888/lab
+[W 15:37:41.019 LabApp] 404 GET /metrics?1583480261010 (127.0.0.1) 1.84ms referer=http://localhost:8888/lab
+[W 15:37:46.032 LabApp] 404 GET /metrics?1583480266023 (127.0.0.1) 2.09ms referer=http://localhost:8888/lab
+[W 15:37:51.045 LabApp] 404 GET /metrics?1583480271035 (127.0.0.1) 1.80ms referer=http://localhost:8888/lab
+[W 15:37:56.057 LabApp] 404 GET /metrics?1583480276049 (127.0.0.1) 1.90ms referer=http://localhost:8888/lab
+[W 15:38:01.070 LabApp] 404 GET /metrics?1583480281062 (127.0.0.1) 1.81ms referer=http://localhost:8888/lab
+[W 15:38:06.083 LabApp] 404 GET /metrics?1583480286074 (127.0.0.1) 1.92ms referer=http://localhost:8888/lab
+[W 15:38:11.096 LabApp] 404 GET /metrics?1583480291087 (127.0.0.1) 1.85ms referer=http://localhost:8888/lab
+[W 15:38:16.108 LabApp] 404 GET /metrics?1583480296100 (127.0.0.1) 1.94ms referer=http://localhost:8888/lab
+[W 15:38:21.120 LabApp] 404 GET /metrics?1583480301112 (127.0.0.1) 1.99ms referer=http://localhost:8888/lab
+[W 15:38:26.132 LabApp] 404 GET /metrics?1583480306126 (127.0.0.1) 1.32ms referer=http://localhost:8888/lab
+[W 15:38:31.143 LabApp] 404 GET /metrics?1583480311135 (127.0.0.1) 1.90ms referer=http://localhost:8888/lab
+[W 15:38:36.156 LabApp] 404 GET /metrics?1583480316147 (127.0.0.1) 1.96ms referer=http://localhost:8888/lab
+[W 15:38:41.168 LabApp] 404 GET /metrics?1583480321160 (127.0.0.1) 1.88ms referer=http://localhost:8888/lab
+[W 15:38:46.184 LabApp] 404 GET /metrics?1583480326172 (127.0.0.1) 1.94ms referer=http://localhost:8888/lab
+[W 16:03:21.553 LabApp] 404 GET /metrics?1583481801532 (127.0.0.1) 4.48ms referer=http://localhost:8888/lab
+[W 16:07:50.746 LabApp] 404 GET /metrics?1583482070737 (127.0.0.1) 1.92ms referer=http://localhost:8888/lab
+[W 17:49:45.064 LabApp] 404 GET /metrics?1583488184748 (127.0.0.1) 2.70ms referer=http://localhost:8888/lab
+[W 17:49:50.073 LabApp] 404 GET /metrics?1583488190068 (127.0.0.1) 1.22ms referer=http://localhost:8888/lab
+[W 17:49:55.085 LabApp] 404 GET /metrics?1583488195077 (127.0.0.1) 1.96ms referer=http://localhost:8888/lab
+[W 17:50:00.095 LabApp] 404 GET /metrics?1583488200089 (127.0.0.1) 1.31ms referer=http://localhost:8888/lab
+[W 17:50:05.106 LabApp] 404 GET /metrics?1583488205098 (127.0.0.1) 2.06ms referer=http://localhost:8888/lab
+[W 17:50:10.121 LabApp] 404 GET /metrics?1583488210112 (127.0.0.1) 2.55ms referer=http://localhost:8888/lab
+[W 17:50:15.137 LabApp] 404 GET /metrics?1583488215126 (127.0.0.1) 2.24ms referer=http://localhost:8888/lab
+[W 17:50:20.156 LabApp] 404 GET /metrics?1583488220147 (127.0.0.1) 2.37ms referer=http://localhost:8888/lab
+[W 17:50:25.168 LabApp] 404 GET /metrics?1583488225160 (127.0.0.1) 2.04ms referer=http://localhost:8888/lab
+[W 17:50:30.180 LabApp] 404 GET /metrics?1583488230172 (127.0.0.1) 1.86ms referer=http://localhost:8888/lab
+[W 17:50:35.191 LabApp] 404 GET /metrics?1583488235183 (127.0.0.1) 1.84ms referer=http://localhost:8888/lab
+[W 17:50:40.203 LabApp] 404 GET /metrics?1583488240193 (127.0.0.1) 1.88ms referer=http://localhost:8888/lab
+[I 17:50:45.767 LabApp] Saving file at /Untitled.ipynb
+[I 19:09:26.265 LabApp] Starting buffering for 4370f3ea-a80b-4930-9c0a-78158e22a0a9:4fb55564-1460-4fe0-84e6-9965038bfd3b
+[I 19:16:30.042 LabApp] Adapting to protocol v5.1 for kernel 4370f3ea-a80b-4930-9c0a-78158e22a0a9
+[I 19:16:30.044 LabApp] Restoring connection for 4370f3ea-a80b-4930-9c0a-78158e22a0a9:4fb55564-1460-4fe0-84e6-9965038bfd3b
+[W 20:02:47.738 LabApp] 404 GET /metrics?1583496167728 (127.0.0.1) 3.86ms referer=http://localhost:8888/lab
+[I 20:02:48.065 LabApp] Starting buffering for 4370f3ea-a80b-4930-9c0a-78158e22a0a9:4fb55564-1460-4fe0-84e6-9965038bfd3b
+[C 20:03:05.675 LabApp] received signal 15, stopping
+[I 20:03:05.679 LabApp] Shutting down 1 kernel
+[I 20:03:06.084 LabApp] Kernel shutdown: 4370f3ea-a80b-4930-9c0a-78158e22a0a9
